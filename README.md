@@ -7,47 +7,68 @@ awesome frontend
 
 基础技能：
 
-* javascript、es6
-* css3
-* html5
+* Javascript、ES6
+* CSS3
+* HTML5
+
+进阶：
+
+* [TypeScript](https://github.com/microsoft/TypeScript)
 
 ## 框架
 
-* Vue.js
-* React.js
+* [Vue.js](https://github.com/vuejs/vue)
+* [React.js]((https://github.com/facebook/react))
 
 ### Vue.js
 
-##### 常用技术栈（全家桶）：
+##### 常用技术栈（全家桶）
 
-* vue.js
+* [vue.js](https://github.com/vuejs/vue)
 
-* vue-router
+* [vue-router](https://github.com/vuejs/vue-router)
 
-* vuex
+* [vuex](https://github.com/vuejs/vuex)
 
-* 服务端渲染框架：nuxt.js
+* [vue-cli](https://github.com/vuejs/vue-cli)
+
+* 服务端渲染框架：[nuxt.js](https://github.com/nuxt/nuxt.js)
 
 * 常用 UI 框架：
 
   PC端：[elementUI](https://github.com/ElemeFE/element)、[iView](https://github.com/iview/iview)
 
   移动端：[Vant](https://github.com/youzan/vant)、[cube-ui](https://github.com/didi/cube-ui)
+  
+* [vue3.0 - 未正式 发布](https://github.com/vuejs/vue-next)
+
+##### 源码解析
+
+* [learnVue](https://github.com/answershuto/learnVue)
+
+* [vue-analysis](https://github.com/ustbhuangyi/vue-analysis)
 
 
-##### 开源项目：
+##### 开源项目
 
-​	后台管理系统（最佳实践）：[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+* 后台管理系统（最佳实践）：[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
-##### 小程序：
+##### 小程序
 
-​	[kbone - 微信官方微信小程序和 Web 端同构的解决方案](https://github.com/Tencent/kbone)
+* [kbone - 微信官方微信小程序和 Web 端同构的解决方案](https://github.com/Tencent/kbone)
 
-​	[mpvue - 基于 Vue.js 的小程序开发框架]( https://github.com/Meituan-Dianping/mpvu)
+* [mpvue - 基于 Vue.js 的小程序开发框架]( https://github.com/Meituan-Dianping/mpvu)
+
+##### 最佳实践
+
+* [awesome-vue](https://github.com/vuejs/awesome-vue)
+* [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)
+
+
 
 ### React.js
 
-##### 常用技术栈（全家桶）：
+##### 常用技术栈（全家桶）
 
 * [react.js](https://github.com/facebook/react)
 
@@ -77,19 +98,25 @@ awesome frontend
   * 移动端：[ant-design-mobile](https://github.com/ant-design/ant-design-mobile/)、[Material-UI](https://github.com/mui-org/material-ui)
   
 
-##### 小程序：
+##### 源码解析
+
+* [React 源码解析 - jokcy](https://react.jokcy.me)
+
+* [React 源码解析 - 语雀 - ant-h5](https://www.yuque.com/ant-h5/react)
+
+##### 小程序
 
 * [kbone - 微信官方微信小程序和 Web 端同构的解决方案](https://github.com/Tencent/kbone)
 
 - [taro - 多端统一开发框架](https://github.com/NervJS/taro)
 
-##### 开源项目：
+##### 开源项目
 
 * 开箱即用的中台前端/设计解决方案: [ant design pro](https://github.com/ant-design/ant-design-pro/)
 
 
 
-##### 最佳实践：
+##### 最佳实践
 
 * [awesome-react](https://github.com/enaqx/awesome-react)
 * [awesome-react-native](https://github.com/jondot/awesome-react-native)
@@ -110,23 +137,46 @@ awesome frontend
 
 * [Babel - 下一代 JavaScript 语法的编译器](https://github.com/babel/babel)
 
+### 规范
+
+* [ESLint - 插件化的 JavaScript 代码检测工具](https://github.com/eslint/eslint)
+  * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
+  * [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
+  * [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+  * [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)
+* [Airbnb - js代码规范](https://github.com/airbnb/javascript)
+
+
+
+### 测试
+
+* [Jest](https://github.com/facebook/jest)
+
 ## Node.js
 
 ##### 框架
 
 * [Express - 基于 Node.js 平台的 web 应用开发框架](https://github.com/expressjs/express)
 * [Koa (koajs) - 基于 Node.js 平台的下一代 web 开发框架](https://github.com/koajs/koa)
-* [egg.js - 为企业级框架和应用而生](https://github.com/eggjs/egg)
+* [egg.js - 基于 Koa 为企业级框架和应用而生](https://github.com/eggjs/egg)
 
 ##### 工具／库
 
 * [sequelize - 操作数据库的 ORM 框架](https://github.com/sequelize/sequelize)
+
+## 部署
+
+* [docker](https://www.docker.com)
 
 ## 开源项目
 
 ### Vue.js
 
 * [vue-element-admin - 后台管理系统（最佳实践）](https://github.com/PanJiaChen/vue-element-admin)
+
+### Nuxt.js
+
+* [nuxtjs.org]
 
 ### React.js
 
@@ -136,6 +186,15 @@ awesome frontend
 
 * [next-site - next.js 官方网站](https://github.com/zeit/next-site)
 * [opencollective-frontend](https://github.com/opencollective/opencollective-frontend)
+
+## 社区论坛／博客／网站
+
+* [Google](https://www.google.com) 能用谷歌尽量不要用百度
+* [Stack Overflow - 英文](https://stackoverflow.com)
+* [掘金](https://juejin.im)
+* [segmentfault - 思否](https://segmentfault.com)
+* [MDN Web 文档](https://developer.mozilla.org/zh-CN)
+* [阮一峰](http://www.ruanyifeng.com)、[廖雪峰](https://www.liaoxuefeng.com)
 
 
 
