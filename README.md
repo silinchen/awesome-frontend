@@ -176,7 +176,7 @@ awesome frontend
 
 ### Nuxt.js
 
-* [nuxtjs.org]
+* [nuxtjs.org - nuxt.js 官网](https://github.com/nuxt/nuxtjs.org)
 
 ### React.js
 
